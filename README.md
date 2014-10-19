@@ -2,6 +2,8 @@
 
 This repository holds the teaching materials I am using in my Fall 2014 python workshop.
 
+* [Lesson 1: Python Basics](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/notebooks/Lesson1_Python_Basics.ipynb)
+
 ## Other Resources ##
 
 There are lots of great resources out there. First, the official documentation for the main ingredients of the SciPy ecosystem:
