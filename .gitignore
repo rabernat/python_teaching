@@ -1,0 +1,9 @@
+*.pyc
+*.ipynb_*
+*.egg-info/
+*.egg
+pyqg/*.so
+pyqg/*.c
+.installed.cfg
+nosetests.xml
+build/*
