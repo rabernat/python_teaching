@@ -8,7 +8,7 @@ This repository holds the teaching materials I am using in my python workshop.
 
 * ARGO Float Data: http://www.ldeo.columbia.edu/~rpa/argo_float_4901412.npz
 * USGS Earthquake Data: http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv
-* NYC Traffic Statistics:
+* NYC Traffic Statistics: https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
 
 ## Schedule ##
 
@@ -28,6 +28,7 @@ Time   | Activity
 ## Notebooks ##
 
 * [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/py34/one_day_workshop/01_core_python.ipynb) 
+* [Lesson 2: Numpy and Matplotlib](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/py34/one_day_workshop/03_pandas_earthquake.ipynb)
 
 ## Other Resources ##
 
