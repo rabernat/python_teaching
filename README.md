@@ -9,6 +9,7 @@ This repository holds the teaching materials I am using in my python workshop.
 * ARGO Float Data: http://www.ldeo.columbia.edu/~rpa/argo_float_4901412.npz
 * USGS Earthquake Data: http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv
 * NYC Traffic Statistics: https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
+* ERSST Data: http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCDC/.ERSST/.version4/anom/.sst/T/(days%20since%201960-01-01)/streamgridunitconvert/dods
 
 ## Sotware Download Links ##
 
