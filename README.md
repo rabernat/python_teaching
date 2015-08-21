@@ -28,7 +28,7 @@ Time   | Activity
 ## Notebooks ##
 
 * [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/py34/one_day_workshop/01_core_python.ipynb) 
-* [Lesson 2: Numpy and Matplotlib](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/py34/one_day_workshop/03_pandas_earthquake.ipynb)
+* [Lesson 2: Numpy and Matplotlib](https://github.com/rabernat/python_teaching/blob/py34/one_day_workshop/02_numpy_and_matplotlib.ipynb)
 
 ## Other Resources ##
 
