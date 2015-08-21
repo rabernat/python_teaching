@@ -25,7 +25,9 @@ Time   | Activity
 2:30pm | netCDF / xray
 4:00pm | Individual Exercise 4: Expore NCEP Reanalysis
 
+## Notebooks ##
 
+* [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/py34/one_day_workshop/01_core_python.ipynb) 
 
 ## Other Resources ##
 
