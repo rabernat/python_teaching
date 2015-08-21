@@ -4,6 +4,12 @@ This repository holds the teaching materials I am using in my python workshop.
 
 [ATTENDANCE FORM](http://goo.gl/forms/r4FBhDrTFP)
 
+## Data Download Links ##
+
+* ARGO Float Data: http://www.ldeo.columbia.edu/~rpa/argo_float_4901412.npz
+* Earthquake Data:
+* NYC Traffic Statistics:
+
 ## Schedule ##
 
 Time   | Activity 
@@ -19,11 +25,6 @@ Time   | Activity
 2:30pm | netCDF / xray
 4:00pm | Individual Exercise 4: Expore NCEP Reanalysis
 
-
-
-
-
-* [Lesson 1: Python Basics](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/notebooks/Lesson1_Python_Basics.ipynb)
 
 
 ## Other Resources ##
