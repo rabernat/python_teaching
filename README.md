@@ -10,6 +10,10 @@ This repository holds the teaching materials I am using in my python workshop.
 * USGS Earthquake Data: http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv
 * NYC Traffic Statistics: https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
 
+## Sotware Download Links ##
+
+* xray repository: https://github.com/xray/xray/archive/master.zip
+
 ## Schedule ##
 
 Time   | Activity 
