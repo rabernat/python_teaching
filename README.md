@@ -7,7 +7,7 @@ This repository holds the teaching materials I am using in my python workshop.
 ## Data Download Links ##
 
 * ARGO Float Data: http://www.ldeo.columbia.edu/~rpa/argo_float_4901412.npz
-* Earthquake Data:
+* USGS Earthquake Data: http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv
 * NYC Traffic Statistics:
 
 ## Schedule ##
