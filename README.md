@@ -17,8 +17,8 @@ Other | 10
 
 ## Course Materials as IPython Notebooks ##
 
-* [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/one_day_workshop/01_core_python.ipynb)
-* [Lesson 2: Numpy and Matplotlib](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/one_day_workshop/02_numpy_and_matplotlib.ipynb)
+* [Lesson 1: Basic Python](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/01_core_python.ipynb)
+* [Lesson 2: Numpy and Matplotlib](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/02_numpy_and_matplotlib.ipynb)
 * [Lesson 3: Pandas with Earthquake Data](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/03_pandas_earthquake.ipynb)
 * [Lesson 4: xray and Pacific SSTs](http://nbviewer.ipython.org/github/rabernat/python_teaching/blob/master/one_day_workshop/04_xray_sst.ipynb)
 
