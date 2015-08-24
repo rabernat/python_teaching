@@ -1,14 +1,29 @@
 # Python for Scientific Computing #
 
-This repository holds the teaching materials I am using in my python workshop.
+Workshop held at [Lamont Doherty Earth Observatory](http://ldeo.columbia.edu) on Aug. 21, 2015.
 
-[ATTENDANCE FORM](http://goo.gl/forms/r4FBhDrTFP)
+## Attendance Data ##
+
+Affiliation | Count
+------------|------
+LDEO Research Scientist | 15
+DEES Grad Student | 14
+LDEO/IRI Postdoc |  7
+DEES / LDEO Faculty | 7
+APAM Postdoc | 2
+APAM Grad Student | 2
+Other Postdoc | 2
+Other | 10
+
+## Course Materials as IPython Notebooks ##
+
+1. 
 
 ## Data Download Links ##
 
 * ARGO Float Data: http://www.ldeo.columbia.edu/~rpa/argo_float_4901412.npz
 * USGS Earthquake Data: http://www.ldeo.columbia.edu/~rpa/usgs_earthquakes_2014.csv
-* NYC Traffic Statistics:
+* ERSST Data: http://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NCDC/.ERSST/.version4/anom/.sst/T/(days%20since%201960-01-01)/streamgridunitconvert/dods
 
 ## Schedule ##
 
@@ -16,15 +31,11 @@ Time   | Activity
 ------ | --------
 9:00am | Intro Presentation
 9:15am | Python core language and data structures
-10:00am | Individual Exercise 1: Fibbonacci sequence
-10:15am | Numpy and matplotlib
-11:45am | Individual Exercise 2: Explore argo data
+10:00am | Individual Exercise 1: Fibbonacci sequence and list adding
+10:30am | Numpy and matplotlib
 12:00pm | Lunch
-1:00pm | Pandas
-2:00pm | Individual Exercise 3: NYC traffic accidents
-2:30pm | netCDF / xray
-4:00pm | Individual Exercise 4: Expore NCEP Reanalysis
-
+1:00pm | Pandas for tabular data analysis
+2:30pm | xray for multidimensional data analysis
 
 
 ## Other Resources ##
